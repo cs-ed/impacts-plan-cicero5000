@@ -6,7 +6,12 @@ This is the *Elementary Statistics and Probability* course at **Alhambra High Sc
 
 ### Learning Objectives
 
-Describe the learning objectives for the class that relate to social impacts. Consider using Bloom's Taxonomy to identify the types of cognitive and/or affective outcomes (and their associated verbs): https://bloomstaxonomy.net/
+At the end of this course the student should be able to:
+1. Collect, sort, organize data from different sources such as the U. S. Census Bureau, other federa/state/local agencies, financial/educational institutions, charities, religious groups into frequency tables using computer technology.
+2. Identify socio-political issues that concern them to further analyze them.
+3. Analyze data using the five-number summary, binomial and/or normal distributions, linear and non-linear regressions.
+4. Predict outcomes based on probability analysis and statistical computer simulations.
+5. Evaluate claims and make decisions based on statistical results.
 
 ### Learning Activities
 
