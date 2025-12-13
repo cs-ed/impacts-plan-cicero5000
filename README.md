@@ -1,6 +1,6 @@
 # Impacts on Society
 
-Describe your course including the name, description, and grade level. Broadly explain how this document details how you plan to incorporate issues of computing impacts on society in your course
+This is the *Elementary Statistics and Probability* course at **Alhambra High School**. This course is geared to the students in their senior year of their high school education; it will count as an elective class.However, this course is also geared to students in their junior year at high school; for them, this course will count as their *required third year of mathematics for graduation*. 
 
 ## Plan
 
