@@ -21,6 +21,7 @@ At the end of this course the student should be able to:
 4. Students will help each other to perform regression analysis of the data they collected and make predictions based on the equations of their regression analysis.
 5. Students will use the proper computer software/website to perform computer simulations to re-evaluate their results and accept or reject claims about the topic they selected to analyze.
 6. Students will give an oral presentation insmall group to the est of the class explaining their data collection, organization, analysis and decision-making process.
+   
 **These activities will be performed one or two times per month depending on the complexities of the topics being discussed**
 
 ### Assessment
