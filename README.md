@@ -30,8 +30,8 @@ At the end of this course the student should be able to:
 2. Research projects will be used to evaluate the students' applications of the topics explained in class to real life situations.
 3. Oral presentations will be used to evaluate the students' understanding and reasoning of their final decision at the end of their research project.
 
-**The students' understanding will be determined according to the accuracy of their answers and calculations as well as their reasoning based on statistical concepts and interpretation of computer simulations.**
+**The students' understanding will be determined according to the accuracy of their answers and calculations as well as their reasoning based on statistical concepts and interpretation of computer simulations. The students' self-evaluation of the course will provide guideleines about the effectiveness of the course**
 
 ### Outcomes
 
-Describe how your plan will facilitate diversity/equity/inclusion and help broadening participation in computing. Also describe how the course plan will help long-term goals in addressing computing impacts on society.
+One important expected outcome of this course, besides learning basic concepts of statistics and probability, is to become aware of the use of computer analysis to make decisions. Since everyone is bombarded by information everyday, students need to learn how to identify reliable and accurate information. By improving analtical skills, students will be better prepared to know what they see and hear on websites, podcasts, videos, and social media networks is not always true and accurate. Learning statistical analysis through computer simulations and calculations provides important tools to accept other ways of thinking, different points of view and accept others' opinions while enforcing our own convictions.
