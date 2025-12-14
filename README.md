@@ -30,7 +30,7 @@ At the end of this course the student should be able to:
 2. Research projects will be used to evaluate the students' applications of the topics explained in class to real life situations.
 3. Oral presentations will be used to evaluate the students' understanding and reasoning of their final decision at the end of their research project.
 
-**The students' understanding will be determined according to the accuracy of their answers and calculations as well as their reasoning based on statistical concepts and calculations.**
+**The students' understanding will be determined according to the accuracy of their answers and calculations as well as their reasoning based on statistical concepts and interpretation of computer simulations.**
 
 ### Outcomes
 
